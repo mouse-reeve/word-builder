@@ -11,6 +11,6 @@ setup(
 
     include_package_data=True,
 
-    url='http://pypi.python.org/pypi/WordBuilder_v011/',
+    url='https://github.com/mouse-reeve/word-builder',
 )
 
