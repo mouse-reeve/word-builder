@@ -34,6 +34,6 @@ setup(
 
     keywords='generative language',
 
-    packages=['word-builder'],
+    packages=['wordbuilder'],
 )
 
